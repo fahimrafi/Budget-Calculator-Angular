@@ -17,7 +17,7 @@
 
 ## Prerequisites
 
-You must have installed node in your local machine as well ase angular cli
+You must have installed node in your local machine as well as angular cli
 
 ## Installation
 
