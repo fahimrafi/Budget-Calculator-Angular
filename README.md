@@ -15,6 +15,10 @@
 
 ---
 
+## Prerequisites
+
+You must have installed node in your local machine as well ase angular cli
+
 ## Installation
 
 Clone this repository
